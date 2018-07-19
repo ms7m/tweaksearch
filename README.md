@@ -25,7 +25,7 @@ This method is more accurate however there are a few bugs that need to worked ou
 - Add format of [xxx](xxx.com)
 
 # Created by
-[exofeel](https://github.com/exofeel)
-[oganessium](https://github.com/oganessium)
+- [exofeel](https://github.com/exofeel)
+- [oganessium](https://github.com/oganessium)
 
 Special thanks to all who have helped!
