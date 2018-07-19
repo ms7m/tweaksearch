@@ -1,2 +1,26 @@
 # tweaksearch
-A discord bot to search through Lydia
+A discord bot to search through Cydia
+
+
+# How does this work
+This bot scrapes https://www.ios-repo-updates.com. (Please note to get permission to scrape the website from the owners)
+This method is more accurate however there are a few bugs that need to worked out.
+
+
+# What works?
+- [[ ]] Format for searching tweaks
+- Searching tweaks
+- Getting tweak information
+- [[xxx::Y]] (Y for number) format for getting next search result
+- Checking if product is paid or not
+
+# What needs to be fixed?
+- Info in dictionary 
+- Some bugs that i forgot to add here.
+
+
+# Created by
+[exofeel](https://github.com/exofeel)
+[oganessium](https://github.com/oganessium)
+
+Special thanks to all who have helped!
