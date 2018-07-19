@@ -19,6 +19,11 @@ This method is more accurate however there are a few bugs that need to worked ou
 - Some bugs that i forgot to add here.
 
 
+# What needs to be done?
+- Search through the default repos first
+- Maybe add S0n1c's API 
+- Add format of [xxx](xxx.com)
+
 # Created by
 [exofeel](https://github.com/exofeel)
 [oganessium](https://github.com/oganessium)
