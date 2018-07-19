@@ -1,5 +1,7 @@
 # tweaksearch
-A discord bot to search through Cydia
+A discord **cog** to search through Cydia
+
+**THIS IS NOT A BOT, THIS IS A COG, PLEASE ADD IT TO AN EXISTING BOT!**
 
 
 # How does this work
